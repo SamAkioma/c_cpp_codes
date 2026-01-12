@@ -1,3 +1,5 @@
+//Problem link: https://www.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1
+
 #include<stdio.h>
 
 unsigned int swapBits(unsigned int n) {
